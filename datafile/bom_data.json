@@ -1,0 +1,26 @@
+[
+    {
+        "item": "board",
+        "sub_item": "nuts",
+        "quantity": 87,
+        "price_per_unit": 16.0
+    },
+    {
+        "item": "screen",
+        "sub_item": "lcd",
+        "quantity": 76,
+        "price_per_unit": 145.0
+    },
+    {
+        "item": "audio",
+        "sub_item": "jack",
+        "quantity": 35,
+        "price_per_unit": 98.0
+    },
+    {
+        "item": "memory",
+        "sub_item": "ram",
+        "quantity": 93,
+        "price_per_unit": 178.0
+    }
+]

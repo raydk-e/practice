@@ -1,0 +1,5 @@
+item sub_item quantity price_per_unit
+board   nuts    87      16
+screen  lcd     76      145
+audio   jack    35      98
+memory  ram     93      178
